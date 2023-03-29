@@ -14,4 +14,14 @@
 
 ## Project description :
 
-The goal is to make simplified bank system to create an account or login in to an existing one, money transfer, cash withdraw and deposit.
+Bank management system is a medium-scale Java program project using OOP concepts. The goal is to make a simple bank system that allows the user to create and manage a bank account.
+
+initially, our project will contain the following features:
+
+- Account creation.
+- printing account information.
+- Money withdraw.
+- Money deposit.
+- Money transfer.
+
+This is a preliminary description of our project, it may change as we move on in the work.
