@@ -12,6 +12,8 @@
 
 - Tariq Allihyani  :  ID: 444002755 : @Troooqi-2004
 
+- Rayan AlMuwallad  :  ID:  444003184 : @Rayan7x5
+
 ## Project description :
 
 Bank management system is a medium-scale Java program project using OOP concepts. The goal is to make a simple bank system that allows the user to create and manage a bank account.
