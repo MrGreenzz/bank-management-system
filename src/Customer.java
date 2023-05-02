@@ -5,6 +5,8 @@ public class Customer {
     private String address;
     private String phoneNumber;
     private String email ;
+    private Account account = new Account();
+    int accountID = account.getAccountId();
 
     public Customer(String firstName, String lastName, String address, String phoneNumber, String email) {
         this.firstName = firstName;
